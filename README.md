@@ -52,7 +52,7 @@ Berdasarkan visualisasi di atas, setelah melalui tahap preprocessing, dapat dike
 Berdasarkan hasil visualisasi menggunakan [Voyant](https://voyant-tools.org/), yang dilakukan setelah melalui tahap prepocessing, dapat kita ketahui bahwa katab yang sering muncul pada data adalah kata **meta** hal ini dapat dilihat dari semakin besar ukuran kata maka semakin sering kata tersebut muncul. Kemudian, di hari yang sama terdapat topik yang sedang trending seperti _zayn_ dan _gigi_ yang biasanya saat suatu topik sendang _trending_ maka sering disangkut pautkan dengan hal-hal yang lainnya.
 
 #### 3. WordTree
-![alt text](Image/Voyant_WordTree.png)
+![alt text](https://github.com/dewirizki/Tugas1_KapSel/blob/1ab19fc19a5f960847acdf95b2cac6ebfa70580e/Image/WordTree.png)
 
 Berdasarkan visualisasi yang dilakukan pada [Voyant](https://voyant-tools.org/) dengan _visualization-tools_ menggunakan **WordTree** kata  **meta**, **simbol** dan **nama** berhubungan dengan **facebook** dan **company**. Dalam hal ini telah bersesuaian dengan trending topicnya bahwa perusahaan facebook melakukan perubahan nama menjadi meta.
 
