@@ -52,7 +52,7 @@ Berdasarkan visualisasi di atas, setelah melalui tahap preprocessing, dapat dike
 Berdasarkan hasil visualisasi menggunakan [Voyant](https://voyant-tools.org/), yang dilakukan setelah melalui tahap prepocessing, dapat kita ketahui bahwa katab yang sering muncul pada data adalah kata **meta** hal ini dapat dilihat dari semakin besar ukuran kata maka semakin sering kata tersebut muncul. Dari 36717 kata yang terdapat pada data tweet, kata ‘meta’ muncul sebanyak 13129 kali. Selain kata ‘meta’, kata ‘facebook’ (3291 kali), ‘metaverse’ (2221 kali), ‘nama’ (1881 kali), ‘mark’ (844 kali). Kemudian, di hari yang sama terdapat topik yang sedang trending seperti _zayn_ dan _gigi_ yang biasanya saat suatu topik sendang _trending_ maka sering disangkut pautkan dengan hal-hal yang lainnya.
 
 #### 3. WordTree
-![alt text](Image/Voyant_WordTree.png)
+![alt text](Image/WordTree.png)
 
 Berdasarkan visualisasi yang dilakukan pada [Voyant](https://voyant-tools.org/) dengan _visualization-tools_ menggunakan **WordTree** kata  **meta** berhubungan dengan pergantian nama yang dilakukan oleh perusahaan facebook. Oleh karena itu, terdapat percabangan kata **ganti** dan **mengganti** pada kata **nama**, serta memiliki dengan hubungan dengan **facebook** dan **company**. Sehingga, kata-kata yang saling terhubung dapat kita ketahui dengan meng-klik kata yang yang ada. 
 
