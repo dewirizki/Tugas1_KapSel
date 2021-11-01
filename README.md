@@ -64,3 +64,10 @@ Pada visualisasi Voyant Links yang terdiri atas tiga keyword yang saling terhubu
 Berdasarkan hasil analisis tweet yang diperoleh, dapat disimpulkan bahwa para pengguna twitter membicarakan tentang istilah meta, aplikasi facebook, dan teknologi metaverse. Dengan adanya hubungan atau jaringan dari kata-kata tersebut, kita dapat memperoleh kesimpulan secara kasar mengenai data tweet.
 
 Ketika pengguna twitter menulis tweet tentang istilah meta, mereka cenderung menyebutkan hal yang berhubungan dengan nama, menyinggung suatu pergantian, serta seseorang bernama Mark. Pengguna twitter juga membahas suatu hal mengenai suatu nama, pergantian sesuatu, dan teknologi metaverse saat membahas aplikasi facebook. Untuk istilah teknologi metaverse, pengguna twitter cenderung menyebutkan kata galactic dan konsep virtual.
+
+#### 5. Trends
+![alt text](Image/trends.png)
+
+Pada visualisasi trends, data tweet dibagi menjadi sepuluh segmen atau bagian. Kata-kata yang diambil merupakan lima kata dengan frekuensi terbanyak, yaitu facebook (hijau), mark (biru muda), meta (biru tua), metaverse (pink), dan nama (ungu).
+
+Dari visualisasi tersebut, diperoleh bahwa kata “facebook” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0110606 dan terendah pada segmen 4,7, dan 8 sebesar 0. Kata “mark” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0016481 dan terendah pada segmen 7 dan 8 sebesar 0.0000071. Kata “meta” memiliki frekuensi relatif tertinggi pada segmen 6 dengan nilai 0.0167365 dan terendah pada segmen 10 sebesar 0.0000426. Kata “metaverse” memiliki frekuensi relatif tertinggi pada segmen 10 dengan nilai 0.0076579 dan terendah pada segmen 7 sebesar 0.0000071. Kata “nama” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0053705 dan terendah pada segmen 8 sebesar 0.0000284.
