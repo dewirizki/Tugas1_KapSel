@@ -45,3 +45,12 @@ Berdasarkan bar plot di atas, dapat diketahui bahwa peak time ditulisnya tweet y
 ![alt text](https://github.com/dewirizki/Tugas1_KapSel/blob/main/Image/Bubbles.png)
 
 Berdasarkan visualisasi di atas, setelah melalui tahap preprocessing, dapat diketahui bahwa kata yang paling sering muncul pada data adalah kata ‘meta’. Hal ini dapat dilihat dari ukuran gelembung atau bubble dari kata ‘meta’ lebih besar dibandingkan dengan kata-kata lain yang ada pada data tweet. Dari 37717 kata yang terdapat pada data tweet, kata ‘meta’ muncul sebanyak 13129 kali. Selain kata ‘meta’, kata ‘facebook’ (3291 kali), ‘metaverse’ (2221 kali), ‘nama’ (1881 kali), ‘mark’ (844 kali)  juga merupakan kata yang sering muncul pada data.
+
+#### 2. WordCloud
+![alt text](Image/Voyant_WordCloud.png)
+Berdasarkan hasil visualisasi menggunakan [Voyant](https://voyant-tools.org/), yang dilakukan setelah melalui tahap prepocessing, dapat kita ketahui bahwa katab yang sering muncul pada data adalah kata **meta** hal ini dapat dilihat dari semakin besar ukuran kata maka semakin sering kata tersebut muncul. Kemudian, di hari yang sama terdapat topik yang sedang trending seperti _zayn_ dan _gigi_ yang biasanya saat suatu topik sendang _trending_ maka sering disangkut pautkan dengan hal-hal yang lainnya.
+
+#### 3. WordTree
+![alt text](Image/Voyant_WordTree.png)
+Berdasarkan visualisasi yang dilakukan pada [Voyant](https://voyant-tools.org/) dengan _visualization-tools_ menggunakan **WordTree** kata  **meta**, **simbol** dan **nama** berhubungan dengan **facebook** dan **company**. Dalam hal ini telah bersesuaian dengan trending topicnya bahwa perusahaan facebook melakukan perubahan nama menjadi meta.
+
