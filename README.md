@@ -6,9 +6,41 @@
 ## Project Overview
 ### Exploratory Data Analysis (EDA)
 
+#### 1. Tweet yang Paling Banyak Diretweet
+Dari data, diperoleh bahwa tweet yang paling banyak diretweet yaitu
+
+>RT @weareoneEXO: BAEKHYUN JAPAN 1st MINI ALBUM 「BAEKHYUN」
+>'Get You Alone'
+
+>🎧 Melon: https://t.co/urd9upmCv3**
+>🎧 FLO: https://t.co/YJC5wNUvYl…
+
+Tweet ini diretweet sebanyak 21636 kali. Namun, tweet ini tidak berhubungan dengan topik Meta, oleh karena itu kami tertarik untuk melihat tweet selanjutnya yang juga banyak diretweet. Namun, setelah melihat hingga 30 tweet dengan retweet terbanyak, ternyata tweet-tweet tersebut juga tidak berhubungan dengan topik Meta.
+
+#### 2. Tweet yang Paling Banyak Dilike
+Dari data, diperoleh bahwa tweet yang paling banyak di like yaitu
+
+>“Facebook dah tukar nama syarikat jadi Meta. Dia tengah build in satu platform nama Metaverse. 
+
+>Welcome to cyberpunk 2077. Kita semua boleh hidup &amp; tinggal dalam virtual world. Mark dah lama rancang, kita yang terlupa nak lalai 😔☝️”
+
+Tweet ini memperoleh sebanyak 2571 like. Namun, tweet ini merupakan tweet berbahasa Malaysia. Oleh karena itu, kami tertarik untuk melihat tweet dengan like terbanyak kedua. Dan ternyata pada data, tweet dengan like terbanyak kedua dan ketiga juga merupakan tweet berbahasa Malaysia. Baru setelah itu tweet dengan like terbanyak keempat merupakan tweet berbahasa Indonesia yaitu
+
+“Kenapa Facebook ganti nama jadi Meta ?
+
+Karena kalo namanya Neno entar demo mulu..”
+
+Tweet ini memperoleh sebanyak 1831 like.
+
+#### 3. Peak Time Ditulisnya Tweet yang Berkaitan dengan Meta
+
 ![alt text](https://github.com/dewirizki/Tugas1_KapSel/blob/main/Image/Peak%20Time.png)
 
-Berdasarkan bar plot di atas, dapat diketahui bahwa peak time munculnya tweet yang membahas tentang Meta adalah pada pukul 4 - 5 pagi. Dari 15379 tweet yang ada, sebanyak 908 tweet ditweet pada pukul 4 - 5 pagi. Selanjutnya dari bar plot di atas, juga dapat diketahui bahwa waktu terbanyak kedua munculnya tweet yang membahas tentang Meta adalah pada pukul 3 - 4 pagi, yaitu dari 15379 tweet (jumlah tweet ini merupakan jumlah setelah duplikasi pada data dihilangkan), sebanyak 825 tweet ditweet pada pukul 3 - 4 pagi. Dan dari bar plot di atas juga dapat dilihat bahwa dari 10 waktu terbanyak munculnya tweet yang membahas tentang meta, sebanyak 7 waktu merupakan pagi dan dini hari. Ini artinya dari data, tweet-tweet yang membahas tentang Meta banyak ditweet pada pagi dan dini hari. CEO Facebook Mark Zuckerberg sendiri mengumumkan perubahan nama perusahaan Facebook menjadi Meta pada pukul 10.00 PT atau pukul 00.00 WIB pada 28 Oktober 2021 (https://www.facebookconnect.com/en-gb/)
+Berdasarkan bar plot di atas, dapat diketahui bahwa peak time ditulisnya tweet yang berkaitan dengan Meta adalah pada pukul 4 - 5 pagi. Dari 15379 tweet yang ada, sebanyak 908 tweet ditweet pada pukul 4 - 5 pagi. Selanjutnya dari bar plot di atas, juga dapat diketahui bahwa waktu terbanyak kedua munculnya tweet yang berkaitan dengan Meta adalah pada pukul 3 - 4 pagi, yaitu dari 15379 tweet (jumlah tweet ini merupakan jumlah setelah duplikasi pada data dihilangkan), sebanyak 825 tweet ditweet pada pukul 3 - 4 pagi. Dan dari bar plot di atas juga dapat dilihat bahwa dari 10 waktu terbanyak ditulisnya tweet, sebanyak 7 waktu merupakan pagi dan dini hari. Ini artinya berdasarkan data, tweet-tweet yang membahas tentang Meta banyak ditweet pada pagi dan dini hari. CEO Facebook, yaitu Mark Zuckerberg, mengumumkan perubahan nama perusahaan Facebook menjadi Meta pada pukul 10.00 PT atau pukul 00.00 WIB pada 28 Oktober 2021 (https://www.facebookconnect.com/en-gb/).
+
+### Visualisasi dengan Voyant
+
+#### 1. Bubbles
 
 ![alt text](https://github.com/dewirizki/Tugas1_KapSel/blob/main/Image/Bubbles.png)
 
