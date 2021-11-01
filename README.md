@@ -56,3 +56,11 @@ Berdasarkan hasil visualisasi menggunakan [Voyant](https://voyant-tools.org/), y
 
 Berdasarkan visualisasi yang dilakukan pada [Voyant](https://voyant-tools.org/) dengan _visualization-tools_ menggunakan **WordTree** kata  **meta**, **simbol** dan **nama** berhubungan dengan **facebook** dan **company**. Dalam hal ini telah bersesuaian dengan trending topicnya bahwa perusahaan facebook melakukan perubahan nama menjadi meta.
 
+#### 4. Links
+! [alt text]_ (Image/link.png)
+
+Pada visualisasi Voyant Links yang terdiri atas tiga keyword yang saling terhubung, yaitu “meta” (3953), “facebook” (3291), dan “metaverse” (2221). Keyword dengan frekuensi terbanyak, yaitu “meta”, terhubung dengan tiga collocate, yaitu “nama” (1940), “ganti” (971), dan “mark” (904). Hal ini menyatakan bahwa ketika pada satu tweet atau data terdapat keyword “meta”, keyword tersebut diperjelas dengan kata “nama” , “ganti”, dan “mark”. Keyword “facebook” terhubung dengan “nama”, “ganti”, dan “zuckerberg” (574), ini menunjukkan bahwa “nama”, “ganti”,  dan “zuckerberg” memperjelas konteks atau topik yang berhubungan dengan “facebook”. Keyword “metaverse” terhubung dengan “virtual” (307) dan “galactic” (280), yang menyatakan bahwa “virtual” dan “galactic” menjelaskan keyword “metaverse”.
+
+Berdasarkan hasil analisis tweet yang diperoleh, dapat disimpulkan bahwa para pengguna twitter membicarakan tentang istilah meta, aplikasi facebook, dan teknologi metaverse. Dengan adanya hubungan atau jaringan dari kata-kata tersebut, kita dapat memperoleh kesimpulan secara kasar mengenai data tweet.
+
+Ketika pengguna twitter menulis tweet tentang istilah meta, mereka cenderung menyebutkan hal yang berhubungan dengan nama, menyinggung suatu pergantian, serta seseorang bernama Mark. Pengguna twitter juga membahas suatu hal mengenai suatu nama, pergantian sesuatu, dan teknologi metaverse saat membahas aplikasi facebook. Untuk istilah teknologi metaverse, pengguna twitter cenderung menyebutkan kata galactic dan konsep virtual.
