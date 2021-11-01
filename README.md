@@ -72,4 +72,4 @@ Pada visualisasi trends, data tweet dibagi menjadi sepuluh segmen atau bagian. K
 
 Dari visualisasi tersebut, diperoleh bahwa kata “facebook” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0110606 dan terendah pada segmen 4,7, dan 8 sebesar 0. Kata “mark” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0016481 dan terendah pada segmen 7 dan 8 sebesar 0.0000071. Kata “meta” memiliki frekuensi relatif tertinggi pada segmen 6 dengan nilai 0.0167365 dan terendah pada segmen 10 sebesar 0.0000426. Kata “metaverse” memiliki frekuensi relatif tertinggi pada segmen 10 dengan nilai 0.0076579 dan terendah pada segmen 7 sebesar 0.0000071. Kata “nama” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0053705 dan terendah pada segmen 8 sebesar 0.0000284. Selain itu, diperoleh juga terdapat trend antara kata "mark" dan "nama". Hal ini dapat dilihat dari pola kedua grafik dari kata tersebut.
 
-![alt text](Image/trends 2.png)
+![alt text](https://github.com/dewirizki/Tugas1_KapSel/blob/12d0dd6a4660b056abd55a183e9f8e319a8b886b/Image/trends%202.png)
