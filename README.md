@@ -44,17 +44,17 @@ Berdasarkan bar plot di atas, dapat diketahui bahwa peak time ditulisnya tweet y
 
 ![alt text](https://github.com/dewirizki/Tugas1_KapSel/blob/main/Image/Bubbles.png)
 
-Berdasarkan visualisasi di atas, setelah melalui tahap preprocessing, dapat diketahui bahwa kata yang paling sering muncul pada data adalah kata ‘meta’. Hal ini dapat dilihat dari ukuran gelembung atau bubble dari kata ‘meta’ lebih besar dibandingkan dengan kata-kata lain yang ada pada data tweet. Dari 36717 kata yang terdapat pada data tweet, kata ‘meta’ muncul sebanyak 13129 kali. Selain kata ‘meta’, kata ‘facebook’ (3291 kali), ‘metaverse’ (2221 kali), ‘nama’ (1881 kali), ‘mark’ (844 kali)  juga merupakan kata yang sering muncul pada data.
+Berdasarkan visualisasi di atas, setelah melalui tahap preprocessing, dapat diketahui bahwa kata yang paling sering muncul pada data adalah kata ‘meta’. Hal ini dapat dilihat dari ukuran gelembung atau bubble dari kata ‘meta’ lebih besar dibandingkan dengan kata-kata lain yang ada pada data tweet. Dari 37717 kata yang terdapat pada data tweet, kata ‘meta’ muncul sebanyak 13129 kali. Selain kata ‘meta’, kata ‘facebook’ (3291 kali), ‘metaverse’ (2221 kali), ‘nama’ (1881 kali), ‘mark’ (844 kali)  juga merupakan kata yang sering muncul pada data.
 
 #### 2. WordCloud
 ![alt text](Image/Voyant_WordCloud.png)
 
-Berdasarkan hasil visualisasi menggunakan [Voyant](https://voyant-tools.org/), yang dilakukan setelah melalui tahap prepocessing, dapat kita ketahui bahwa katab yang sering muncul pada data adalah kata **meta** hal ini dapat dilihat dari semakin besar ukuran kata maka semakin sering kata tersebut muncul. Dari 36717 kata yang terdapat pada data tweet, kata ‘meta’ muncul sebanyak 13129 kali. Selain kata ‘meta’, kata ‘facebook’ (3291 kali), ‘metaverse’ (2221 kali), ‘nama’ (1881 kali), ‘mark’ (844 kali). Kemudian, di hari yang sama terdapat topik yang sedang trending seperti _zayn_ dan _gigi_ yang biasanya saat suatu topik sendang _trending_ maka sering disangkut pautkan dengan hal-hal yang lainnya.
+Berdasarkan hasil visualisasi menggunakan [Voyant](https://voyant-tools.org/), yang dilakukan setelah melalui tahap prepocessing, dapat kita ketahui bahwa katab yang sering muncul pada data adalah kata **meta** hal ini dapat dilihat dari semakin besar ukuran kata maka semakin sering kata tersebut muncul. Kemudian, di hari yang sama terdapat topik yang sedang trending seperti _zayn_ dan _gigi_ yang biasanya saat suatu topik sendang _trending_ maka sering disangkut pautkan dengan hal-hal yang lainnya.
 
 #### 3. WordTree
-![alt text](Image/WordTree.png)
+![alt text](Image/Voyant_WordTree.png)
 
-Berdasarkan visualisasi yang dilakukan pada [Voyant](https://voyant-tools.org/) dengan _visualization-tools_ menggunakan **WordTree** kata  **meta** berhubungan dengan pergantian nama yang dilakukan oleh perusahaan facebook. Oleh karena itu, terdapat percabangan kata **ganti** dan **mengganti** pada kata **nama**, serta memiliki dengan hubungan dengan **facebook** dan **company**. Sehingga, kata-kata yang saling terhubung dapat kita ketahui dengan meng-klik kata yang yang ada. 
+Berdasarkan visualisasi yang dilakukan pada [Voyant](https://voyant-tools.org/) dengan _visualization-tools_ menggunakan **WordTree** kata  **meta**, **simbol** dan **nama** berhubungan dengan **facebook** dan **company**. Dalam hal ini telah bersesuaian dengan trending topicnya bahwa perusahaan facebook melakukan perubahan nama menjadi meta.
 
 #### 4. Links
 ![alt text](Image/link.png)
@@ -70,4 +70,4 @@ Ketika pengguna twitter menulis tweet tentang istilah meta, mereka cenderung men
 
 Pada visualisasi trends, data tweet dibagi menjadi sepuluh segmen atau bagian. Kata-kata yang diambil merupakan lima kata dengan frekuensi terbanyak, yaitu facebook (hijau), mark (biru muda), meta (biru tua), metaverse (pink), dan nama (ungu).
 
-Dari visualisasi tersebut, diperoleh bahwa kata “facebook” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0110606 dan terendah pada segmen 4,7, dan 8 sebesar 0. Kata “mark” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0016481 dan terendah pada segmen 7 dan 8 sebesar 0.0000071. Kata “meta” memiliki frekuensi relatif tertinggi pada segmen 6 dengan nilai 0.0167365 dan terendah pada segmen 10 sebesar 0.0000426. Kata “metaverse” memiliki frekuensi relatif tertinggi pada segmen 10 dengan nilai 0.0076579 dan terendah pada segmen 7 sebesar 0.0000071. Kata “nama” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0053705 dan terendah pada segmen 8 sebesar 0.0000284.
+Dari visualisasi tersebut, diperoleh bahwa kata “facebook” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0110606 dan terendah pada segmen 4,7, dan 8 sebesar 0. Kata “mark” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0016481 dan terendah pada segmen 7 dan 8 sebesar 0.0000071. Kata “meta” memiliki frekuensi relatif tertinggi pada segmen 6 dengan nilai 0.0167365 dan terendah pada segmen 10 sebesar 0.0000426. Kata “metaverse” memiliki frekuensi relatif tertinggi pada segmen 10 dengan nilai 0.0076579 dan terendah pada segmen 7 sebesar 0.0000071. Kata “nama” memiliki frekuensi relatif tertinggi pada segmen 2 dengan nilai 0.0053705 dan terendah pada segmen 8 sebesar 0.0000284. Selain itu, diperoleh juga terdapat trend antara kata "mark" dan "nama". Hal ini dapat dilihat dari pola kedua grafik dari kata tersebut.
